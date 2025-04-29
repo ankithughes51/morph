@@ -7,3 +7,4 @@ dist/
 *.pyc
 .cache/
 .pytest_cache/
+*.tmp
